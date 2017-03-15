@@ -8,4 +8,7 @@
     <string name="txt_name_contact6">Nombre Contacto 6</string>
     <string name="txt_name_contact7">Nombre Contacto 7</string>
     <string name="txt_name_contact8">Nombre Contacto 8</string>
+    <string name="btn_contact">Actualizar</string>
+    <string name="Commit">Comentario</string>
+    <string name="txt_email_contact">Correo Electronico</string>
 </resources>
