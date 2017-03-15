@@ -11,4 +11,5 @@
     <string name="btn_contact">Actualizar</string>
     <string name="Commit">Comentario</string>
     <string name="txt_email_contact">Correo Electronico</string>
+    <string name="txt_principal_menu">volver a la lista principal</string>
 </resources>
