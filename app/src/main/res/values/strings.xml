@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="txt_name_contact1">Nombre Contacto 1</string>
+    <string name="txt_name_contact2">Nombre Contacto 2</string>
+    <string name="txt_name_contact3">Nombre Contacto 3</string>
+    <string name="txt_name_contact4">Nombre Contacto 4</string>
+    <string name="txt_name_contact5">Nombre Contacto 5</string>
+    <string name="txt_name_contact6">Nombre Contacto 6</string>
+    <string name="txt_name_contact7">Nombre Contacto 7</string>
+    <string name="txt_name_contact8">Nombre Contacto 8</string>
+</resources>
